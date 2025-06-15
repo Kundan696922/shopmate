@@ -6,7 +6,7 @@
 
 ## 🚀 Demo 
 
-> You can see the website live here: 👉 [Show Demo](https://shopmate89.netlify.app/)
+> You can see the website live here: 👉 [Show Demo](https://shopmate34.netlify.app/)
 
 ---
 
@@ -30,14 +30,23 @@
 - 💾 Persistent data using `localStorage`
 - 📱 Fully responsive for desktop and mobile
 - ✅ Input validation (no empty names or invalid prices)
+- 📂 **Categories** support: Groceries, Electronics, etc.
+- ✅ **Mark as Purchased**: Strike through & visual indication
+- ⬆️⬇️ **Sorting & Filtering** by name, price, category
+- 📤 **Export as CSV** and 📥 **Import from CSV**
+- 🌙 **Dark Mode** toggle – Applies to the full page with placeholder fixes
 
 ---
 
 ## 🖼️ Overview 
 
-![Screenshot 2025-06-15 134152](https://github.com/user-attachments/assets/e368832d-d6fb-4942-b554-95c4d92378db)
+![Screenshot 2025-06-15 172518](https://github.com/user-attachments/assets/1582a4fd-a9de-4627-a2be-113e7fcc208a)
 
-![Screenshot 2025-06-15 134245](https://github.com/user-attachments/assets/4d751af8-4f25-407c-a5f7-626f4b106989)
+![Screenshot 2025-06-15 172640](https://github.com/user-attachments/assets/e931ae0e-baf3-4358-9474-e7423d151d54)
+
+![Screenshot 2025-06-15 172525](https://github.com/user-attachments/assets/3dd35c3a-a2b1-44f5-9d37-f90c9cba8412)
+
+![Screenshot 2025-06-15 172631](https://github.com/user-attachments/assets/d0bb1c91-9d40-4b73-8c8e-4fa58adfc538)
 
 ---
 
