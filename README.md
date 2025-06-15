@@ -54,7 +54,7 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kundan696922/shopmate.git
-   cd budgetwise
+   cd shopmate
    
 2. Install npm packages:
    ```bash
