@@ -1,6 +1,6 @@
 # 🛒 ShopMate – Shopping List Web App
 
-**ShopMate** is a responsive and user-friendly **Shopping List with Estimation** web app built using **ReactJS + Bootstrap 5 + Vite**. ShopMate helps you keep track of your shopping items, their prices, and calculate total estimated cost effortlessly. Items are saved locally, so your data stays even after refreshing the page.
+**ShopMate** is a responsive and user-friendly **Shopping List web app** built using **ReactJS + Bootstrap 5 + Vite**. ShopMate helps you keep track of your shopping items, their prices, and calculate total estimated cost effortlessly. Items are saved locally, so your data stays even after refreshing the page.
 
 ---
 
